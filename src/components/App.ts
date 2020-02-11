@@ -62,6 +62,8 @@ export class App extends LitElement {
                 width: 100%;
                 height: 100%;
                 background-color: rgb(36, 39, 46);
+
+                overflow-y: auto;
             }
             .topControls {
                 display: flex;

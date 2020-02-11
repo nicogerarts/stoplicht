@@ -1,6 +1,6 @@
 self.__precacheManifest = [
   {
-    "revision": "807a7f0b196f2ab8222a",
+    "revision": "cbbe175ecd52cfa1a38f",
     "url": "bundle.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "docs/components/App.d.ts"
   },
   {
-    "revision": "92fc2e01d2e20229e4da92ba1b8cd71d",
+    "revision": "ba028dad9eb01d0ae1958a09aba00c42",
     "url": "index.html"
   },
   {
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "vendor/bundles/webcomponents-sd-ce.js"
   },
   {
-    "revision": "08573386a809d3ce100c304f51bdccfc",
-    "url": "vendor/webcomponents-bundle.js"
-  },
-  {
     "revision": "6a19b154a6b90c260c2ee9329a0c77d2",
     "url": "vendor/bundles/webcomponents-sd-ce-pf.js"
+  },
+  {
+    "revision": "08573386a809d3ce100c304f51bdccfc",
+    "url": "vendor/webcomponents-bundle.js"
   }
 ];

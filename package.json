@@ -16,7 +16,7 @@
   "devDependencies": {
     "@polymer/test-fixture": "4.0.2",
     "@types/jwt-decode": "2.2.1",
-    "ajv": "6.7.0",
+    "ajv": "6.12.3",
     "autoprefixer": "9.1.2",
     "ava": "1.0.1",
     "babel-core": "6.26.3",
